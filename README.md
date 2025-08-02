@@ -1,7 +1,6 @@
 # food_recipes
 
-A new Flutter project.
-
+https://recipeapp-81ab5.web.app/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
